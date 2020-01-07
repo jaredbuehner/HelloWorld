@@ -1,5 +1,5 @@
 /**
- * The HelloWorld class implemements an application that simply prints
+ * The HelloWorld class implemements an application that prints
  * "Hello World!" to the standard output.
  */
 class HelloWorld {

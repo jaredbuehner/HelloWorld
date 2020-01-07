@@ -1,1 +1,1 @@
-HelloWorld is a simple application used to display "Hello World!" to the terminal.
+HelloWorld is a simple application used to display "Hello World!" to the output.
