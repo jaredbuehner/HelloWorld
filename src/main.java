@@ -4,7 +4,8 @@
  */
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World!"); // Display the string.
-        System.out.println("Hello Again!"); // Display the string.
+        System.out.println("Hello world!"); // Display the string.
+        System.out.println("This is my first coding project at UMGC!");
+        System.out.println("CMIS 141 is awesome!");
     }
 }
